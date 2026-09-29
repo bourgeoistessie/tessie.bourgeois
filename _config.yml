@@ -2,5 +2,5 @@ title: "Tessie Bourgeois – Data Analyst junior"
 logo: /img/Copilot_20260511_111256.png
 description:"Portfolio de Tessie Bourgeois, étudiante en M1 Mégadonnées (MEDAS, CNAM) en recherche d'alternance : Python, SQL, Power BI, SPSS AMOS, études quantitatives et qualitatives."
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: mmistakes/minimal-mistakes
 lang: fr
