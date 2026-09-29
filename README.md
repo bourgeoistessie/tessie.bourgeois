@@ -10,20 +10,20 @@
 
 ---
 
-## 👋 À propos
+## À propos
 
 Étudiante en **M1 Mégadonnées (MEDAS) au CNAM**, j'ai un profil à la croisée des **sciences sociales** et de la **data** : je transforme des données (enquêtes, questionnaires, entretiens) en **enseignements clairs et utiles à la décision**.
 
 Ce qui me distingue :
 
-- 🎯 **Double approche quanti / quali** : j'ai mené une enquête par questionnaire (**300 réponses**) *et* **15 entretiens semi-directifs**, pour comprendre à la fois le « combien » et le « pourquoi ».
-- 🧮 **Solide socle statistique** : parcours en maths-info appliquées, méthodes quantitatives et évaluation de politiques publiques.
-- 🛠️ **Outils opérationnels** : Python, SQL, Power BI, SPSS AMOS, Stata, RStudio.
-- 🗣️ **Restitution** : je sais présenter des résultats complexes à des parties prenantes non expertes.
+- **Double approche quanti / quali** : j'ai mené une enquête par questionnaire (**300 réponses**) *et* **15 entretiens semi-directifs**, pour comprendre à la fois le « combien » et le « pourquoi ».
+- **Solide socle statistique** : parcours en maths-info appliquées, méthodes quantitatives et évaluation de politiques publiques.
+- **Outils opérationnels** : Python, SQL, Power BI, SPSS AMOS, Stata, RStudio.
+- **Restitution** : je sais présenter des résultats complexes à des parties prenantes non expertes.
 
 ---
 
-## 🧰 Compétences
+## Compétences
 
 | Domaine | Outils / méthodes |
 |---|---|
@@ -45,12 +45,12 @@ Ce qui me distingue :
 
 ---
 
-## 📂 Projets
+## Projets
 
-### 1. 🌊 Perception de la réutilisation des eaux usées traitées en Occitanie
+### 1. Perception de la réutilisation des eaux usées traitées en Occitanie
 **Contexte :** stage de chargée d'études environnementales au laboratoire de recherche **LEREPS** (Toulouse), mars – sept. 2025.
 
-**Problématique :** quels sont les déterminants de la perception des habitants face à la réutilisation des eaux usées traitées ?
+**Problématique :** Quels sont les déterminants de la perception des habitants face à la réutilisation des eaux usées traitées ?
 
 **Ce que j'ai fait :**
 - Conçu et diffusé un **questionnaire** (300 réponses) et rédigé **15 guides d'entretiens** semi-directifs
@@ -59,34 +59,54 @@ Ce qui me distingue :
 - **Présenté les résultats** aux parties prenantes du projet
 
 **Outils :** Excel · SPSS AMOS · clustering · analyse qualitative
-🔗 [Voir le projet](#) <!-- À COMPLÉTER : lien vers le repo / rapport / poster -->
+ [Voir le projet](#) <!-- À COMPLÉTER : lien vers le repo / rapport / poster -->
 
 ---
 
-### 2. 🧑‍🤝‍🧑 Analyse des attitudes sociales – General Social Survey (GSS)
+### 2. Analyse des attitudes sociales – General Social Survey (GSS)
 **Objectif :** explorer les attitudes sociales à partir des données de la célèbre enquête américaine GSS.
 
 **Approche :** <!-- À COMPLÉTER : ex. nettoyage des données, analyse exploratoire, régression, visualisations… -->
 
 **Outils :** <!-- À COMPLÉTER : Python / R / Stata / SPSS -->
 **Résultats clés :** <!-- À COMPLÉTER : 1 à 2 enseignements marquants -->
-🔗 [Voir le projet](#) <!-- À COMPLÉTER : lien vers le repo / notebook -->
+ [Voir le projet](#) <!-- À COMPLÉTER : lien vers le repo / notebook -->
 
 ---
 
-### 3. 📊 Projet Data / Power BI *(à venir)*
-<!-- À COMPLÉTER : ajoutez ici un projet de dashboard Power BI (ex. issu du programme IBM Data Analyst) -->
-🔗 [Voir le projet](#)
+### 3. Construction d’un tableau de bord de pilotage de l’activité d’une entreprise de BTP
+**Objectif :** Mettre en place un tableau de bord de pilotage permettant de suivre l’activité d’une entreprise de BTP : suivi des chantiers, coûts, délais, ressources et indicateurs de performance.
+
+**Approche :** Importation et préparation des données (Power Query)
+
+Nettoyage, normalisation et création des relations entre tables
+
+Analyse exploratoire : identification des indicateurs clés (coûts, marge, avancement, retards)
+
+Création de mesures DAX (taux de marge, coût moyen, performance par chantier)
+
+Conception d’un tableau de bord interactif : filtres, cartes, graphiques, KPI
+
+Mise en forme professionnelle pour un usage décisionnel
+
+**Outils :** Power BI Desktop, Excel (source de données)
+**Résultats clés :** Visualisation claire de l’avancement des chantiers (retards, coûts, marge)
+
+Identification des chantiers les plus rentables et ceux en dépassement budgétaire
+
+Mise en évidence des ressources sous‑utilisées ou sur‑sollicitées
+
+Tableau de bord interactif facilitant la prise de décision pour les responsables de projet [Voir le projet](#)
 
 ---
 
-### 4. 🗄️ Projet SQL / Big Data *(à venir)*
+### 4. Projet SQL / Big Data *(à venir)*
 <!-- À COMPLÉTER : ajoutez ici un projet issu du Master MEDAS (requêtes SQL, pipeline de données, machine learning…) -->
-🔗 [Voir le projet](#)
+ [Voir le projet](#)
 
 ---
 
-## 🎓 Formation
+## Formation
 
 | Période | Diplôme | Établissement |
 |---|---|---|
@@ -95,18 +115,18 @@ Ce qui me distingue :
 | 2020 – 2023 | Licence Gestion appliquée aux Sciences Humaines et Sociales | Université Toulouse II Jean Jaurès |
 | 2018 – 2019 | Licence Maths-Info appliquées aux Sciences Humaines et Sociales | Université Toulouse II Jean Jaurès |
 
-## 📜 Certifications
+## Certifications
 
-- ✅ **Python for Data Analysis : Pandas & NumPy** – Coursera, 2026
-- ⏳ **IBM Data Analyst Professional Certificate** – Coursera, 2026 *(en cours)*
+- **Python for Data Analysis : Pandas & NumPy** – Coursera, 2026
+- **IBM Data Analyst Professional Certificate** – Coursera, 2026 *(en cours)*
 
-## 🌍 Langues
+## Langues
 
 Français (langue maternelle) · Anglais (B1) · Portugais (A2)
 
 ---
 
-## 🎯 Ce que je recherche
+## Ce que je recherche
 
 Une **alternance en tant que Data Analyst ou Chargée d'études statistiques**, dans une structure où je pourrai :
 
@@ -116,10 +136,10 @@ Une **alternance en tant que Data Analyst ou Chargée d'études statistiques**, 
 
 **Rythme :** 2 jours en formation / 3 jours en entreprise.
 
-## 📬 Me contacter
+## Me contacter
 
-- 📧 [bourgeois.tessie@gmail.com](mailto:bourgeois.tessie@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tessie-bourgeois/)
-- 📞 06 95 49 64 33
+- [bourgeois.tessie@gmail.com](mailto:bourgeois.tessie@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tessie-bourgeois/)
+- 06 95 49 64 33
 
-<p align="center"><i>Merci de votre visite ! N'hésitez pas à explorer mes projets. ✨</i></p>
+<p align="center"><i>Merci de votre visite ! N'hésitez pas à explorer mes projets. </i></p>
